@@ -65,4 +65,6 @@ classDiagram
     User -- Playlist: "N" * -- "1" *
     User -- Playlist: "1" * -- "1"
 ```
+## Link da API
+https://web-production-539f.up.railway.app/swagger-ui/index.html
 
